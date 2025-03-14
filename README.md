@@ -3,6 +3,7 @@
 ## 🌍 Overview
 ### What is EvoScape?
 From "Evolve" + "Landscape" = Evolution of landscapes monitored through AI.
+###
 Landscape Change Detection is a computer vision-based project that leverages satellite imagery and machine learning techniques to track changes in urban and natural environments over time. This system is particularly useful for monitoring deforestation, urban expansion, infrastructure development, and disaster impact assessment.
 
 ### How Does It Work?
